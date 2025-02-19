@@ -1,3 +1,16 @@
+# Branches Description
+
+## master
+ 
+This branch contains empty Angular project cleared from original beauties
+
+ ## ngrx_start
+
+ Start project with authorization feature as starting form and Store established
+
+ 
+
+=================================== old stuff
 # MediumcloneAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
